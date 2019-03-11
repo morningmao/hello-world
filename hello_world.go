@@ -10,5 +10,5 @@ func main()  {
 	t := time.Now().Unix()
 
 	fmt.Println(t)
-	fmt.Println("morningmao: hello world")
+	fmt.Println("morningmao: hello world!!")
 }
